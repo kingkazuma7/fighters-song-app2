@@ -2,11 +2,43 @@
   {
     "name": "朝倉未来",
     "entranceSong": "Battle Scars",
+    "class": "バンダム",
+    "team": "トライフォース赤坂",
     "image": "/images/5bd5a5ff98d12967709d9a95387d60a2342e7235_large.jpeg"
   },
   {
     "name": "朝倉海",
     "entranceSong": "Forever Young",
+    "class": "フェザー",
+    "team": "トライフォース赤坂",
     "image": "/images/644a893108f33b616d32c8085756d627dab9dda4_large.jpeg"
+  },
+  {
+    "name": "斎藤裕",
+    "entranceSong": "Dead End In Tokyo",
+    "class": "フェザー",
+    "team": "パラエストラ小岩",
+    "image": "/images/c1de0df17c25dd8db14b6896a0a6c7c68d3df693_large.jpeg"
+  },
+  {
+    "name": "太田忍",
+    "entranceSong": "雷神 -ライジン-",
+    "class": "バンダム",
+    "team": "パラエストラ柏",
+    "image": "/images/edadba4b068467ba0f4b010af3a686084d016751_large.jpeg"
+  },
+  {
+    "name": "萩原京平",
+    "entranceSong": "The Next Episode",
+    "class": "フェザー",
+    "team": "SMOKER GYM",
+    "image": "/images/28b39f06f1b30c274590e15fffaeb30d3e60101e_large.jpeg"
+  },
+  {
+    "name": "平本蓮",
+    "entranceSong": "",
+    "class": "フェザー",
+    "team": "剛毅會",
+    "image": "/images/39084a8d1660342c806986c626cb3cf483c2588a_large.jpeg"
   }
 ]

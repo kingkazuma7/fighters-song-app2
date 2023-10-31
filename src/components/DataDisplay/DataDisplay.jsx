@@ -11,7 +11,9 @@ const DataDisplay = () => {
         <Card key={index}>
           <CardContent>
             <Typography variant="h5">{item.name}</Typography>
-            <Typography variant="body2">{item.entranceSong}</Typography>
+            <Typography variant="body2">入場曲： {item.entranceSong}</Typography>
+            <Typography>階級： {item.class}級</Typography>
+            <Typography>所属： {item.team}</Typography>
             <img src={item.image} alt={item.name} width={50} />
           </CardContent>
         </Card>
