@@ -22,6 +22,11 @@ const DataDisplay = () => {
     setSelectedTeam(e.target.value);
     console.log(e.target.value);
   }
+  const resetFilters = () => {
+    setSelectedClass("");
+    setSelectedTeam("");
+    console.log('リセット');
+  }
 
   return (
     <div>
@@ -38,6 +43,7 @@ const DataDisplay = () => {
           <option key={teamName} value={teamName}>{teamName}</option>
         ))}
       </select>
+      <button onClick={resetFilters}>リセット</button>
       
       {filteredData.map((item, index) => (
         <Card key={index}>
